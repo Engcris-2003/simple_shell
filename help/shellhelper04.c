@@ -69,12 +69,11 @@ void dis_banner(int ia_mode)
     return;
   NEWLINE;
   write(STDOUT_FILENO, "AUTHORS:\n", 9);
-  write(STDOUT_FILENO, "\tMohamed Mehdi Bouchoucha <mehdiboch@gmail.com>\n", 40);
-  write(STDOUT_FILENO, "\tSami Lafine <samibenomar84@gmail.com>\n\n", 40);
+  write(STDOUT_FILENO, "\tBrian Odali <odarlie@gmail.com>\n", 40);
+  write(STDOUT_FILENO, "\tChristabel Bunde <atiochristabel639@gmail.com>\n\n", 40);
   write(STDOUT_FILENO, "=======================", 23);
   write(STDOUT_FILENO, "=======================\n", 24);
-  write(STDOUT_FILENO, "     WELCOME TO  ", 26);
-  write(STDOUT_FILENO, "  MANDALORIAN SHELL    \n", 22);
+
   write(STDOUT_FILENO, "=======================", 23);
   write(STDOUT_FILENO, "=======================\n", 24);
   NEWLINE;
