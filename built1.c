@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 /**
   * is_builtin - checks if cmd is a builtin
   * @cmd: command to find
