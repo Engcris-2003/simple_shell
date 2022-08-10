@@ -13,7 +13,7 @@
 #include <sys/wait.h>
 #include <unistd.h>
 #include "./strings/string.h"
-#include "linklist.h"
+#include "link1.h"
 #include "./mfile/memo.h"
 #include "shellvar.h"
 #include "./builds/builtin.h"
