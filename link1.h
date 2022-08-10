@@ -1,5 +1,5 @@
-#ifndef _LINKLIST_H_
-#define _LINKLIST_H_
+#ifndef _LINK1_H_
+#define _LINK1_H_
 
 #include <stdlib.h>
 
@@ -24,4 +24,4 @@ list_t *reverse_list(list_t **head);
 void free_list(list_t **head, int flag);
 int delete_node_at_index(list_t **head, unsigned int index);
 
-#endif /* _LINKLIST_H_ */
+#endif /* _LINK1_H_ */
