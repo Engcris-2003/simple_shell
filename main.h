@@ -48,4 +48,4 @@ char *reverse_str(char *s);
 /* string03.c */
 char *_strchr(char *s, char c);
 void _chartostr(char *s, char c);
-#endif /* _SHELL_H_ */
+#endif /* _MAIN_H_ */
