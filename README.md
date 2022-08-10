@@ -1,2 +1,2 @@
 Simple_shell project
-This shel will emulate  UNIX command line interpreter
+This shell will emulate  UNIX command line interpreter
